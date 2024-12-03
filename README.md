@@ -1,1 +1,1 @@
-Repositório da disciplina de Processamento Digital de Imagens
+Repositório da disciplina de Processamento Digital de Imagens - 2023/2
